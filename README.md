@@ -1,3 +1,4 @@
+# DjangoBlog
 # DjangoBlog is a project created by MPK Super Coder. This project is a simple blogging application.
 #
 # How to run this?
